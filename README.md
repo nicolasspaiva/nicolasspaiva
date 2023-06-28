@@ -50,7 +50,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 
 <!-- Selo de organizações -->
-[sEB]: /logo_ebac.png "EBAC"
+[sEB]: ebac/logo_ebac.png "EBAC"
 
 
 
