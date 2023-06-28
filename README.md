@@ -19,3 +19,47 @@
 ### Contatos
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/nicolas-paiva-0299ab209)
+
+# Certificações
+Todas minhas certificações de cursos (+EaDs e Eventos);  
+Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
+
+## 🏛 
+| Órgão emissor          | Certificação                                                      | Data                       |
+| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
+| ![sEB] EBAC        | **Joranada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
+
+
+
+
+
+
+
+
+
+
+
+<!-- -=- # --- REFERÊNCIAS --- # -=- -->
+<!-- Links/Certificados -->
+
+
+
+
+
+
+
+
+<!-- Selo de organizações -->
+
+
+
+
+
+
+
+
+
+
+
+
+
