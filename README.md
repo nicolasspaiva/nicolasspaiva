@@ -42,7 +42,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Certificados -->
 
-[1]:!%20ebac%20/ebac-certificado.pdf
+[1]:!ebac/ebac-certificado.pdf
 
 
 
