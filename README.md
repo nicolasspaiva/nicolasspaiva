@@ -27,7 +27,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 ## 🏛 
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![sEB] EBAC        | **Joranada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
+| ![sEB]   EBAC   | **Joranada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
 
 
 
