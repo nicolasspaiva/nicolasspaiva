@@ -44,7 +44,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- Links/Certificados -->
 
 [1]:ebac/ebac-certificado.pdf
-[2]:one_bit_code_python.pdf
+[2]:onebitcode/one_bit_code_python.pdf
 
 
 
