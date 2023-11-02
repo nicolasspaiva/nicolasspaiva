@@ -28,6 +28,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
 | ![sEB]   EBAC   | **Joranada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
+| ![sON]   One Bit Code   | **Python - Básico              [⮚][2]   | 2023  |
 
 
 
@@ -43,7 +44,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- Links/Certificados -->
 
 [1]:ebac/ebac-certificado.pdf
-
+[2]:one_bit_code_python.pdf
 
 
 
@@ -51,6 +52,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 <!-- Selo de organizações -->
 [sEB]: ebac/logo_ebac.png "EBAC"
+[sON]: onebitcodelogo.png "One Bit Code"
 
 
 
