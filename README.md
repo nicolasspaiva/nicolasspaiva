@@ -27,8 +27,8 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 ## 🏛 
 | Órgão emissor          | Certificação                                                      | Data                       |
 | ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![sEB]   EBAC   | **Joranada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
-| ![sON]   One Bit Code   | **Python - Básico              [⮚][2]   | 2023  |
+| ![sEB]   EBAC   | ** Jornada Dev Fullstack - Webinar**              [⮚][1]   | 2023  |
+| ![sON]   One Bit Code   | ** Python - Básico  **             [⮚][2]   | 2023  |
 
 
 
