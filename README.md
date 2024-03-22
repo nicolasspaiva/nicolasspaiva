@@ -1,6 +1,6 @@
 ### Olá galera 👋
 
-### Sobre Nicolas
+### Nicolas
 
 ### Iniciando minha carreira na programação, utilizando Python, JavaScript, CSS e HTML
 
