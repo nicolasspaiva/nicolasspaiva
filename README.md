@@ -2,7 +2,7 @@
 
 ### Nicolas
 
-### Iniciando minha carreira na programação, utilizando Python, JavaScript, CSS e HTML
+### Desenvolvo projetos FulltStack utlizando React, TypeScript, Python
 
 ### Detalhes
 
