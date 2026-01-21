@@ -9,9 +9,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasspaiva&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=Tiktokclone_webnar_ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=portfolio.black&theme=dark)](https://github.com/nicolasspaiva/portfolio.black)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=Tiktokclone_webnar_ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasspaiva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
