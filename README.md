@@ -11,7 +11,7 @@
 ### Projeto
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=Tiktokclone_webnar_ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=portifolio.black&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasspaiva&repo=portifolio.black&theme=dark&border_color=ffffff&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&bg_color=0d1117)](https://github.com/nicolasspaiva/portifolio.black)
 
 ### Linguagens utilizadas
 
